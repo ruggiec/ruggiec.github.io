@@ -21,11 +21,12 @@
 title: Charlie Ruggiero
 email: ruggiec@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello all.  I am using this site to explore machine learning.
+#  I am using this site to explore machine learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://ruggiec.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  ruggiec
+linkedin_username: cdruggiero
 
 # Build settings
 theme: minima
