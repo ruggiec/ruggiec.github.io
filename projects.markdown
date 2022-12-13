@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-<h3>Erdos Institute Fall 2022</h3>
+<h3>[Erdos Institute Fall 2022](https://ruggiec.github.io/jekyll/update/2022/12/13/fall-2022-erdos-institute-project.html)</h3>
 Predicting patient copay of medications at the doctor's office given a patient's insurance using about 14 million pharmacy claims. 
 
 <h3>Erdos Institute Spring 2022</h3>
