@@ -15,4 +15,5 @@ The Academy Award for "Best Animated Feature Film", first introduced at the 74th
 The goal of our project is to create a model that can 'predict' whether an animated film will be nominated for Best Animated Feature Film or not.
 
 Erdos Institute Spring 2022
+
 ***
